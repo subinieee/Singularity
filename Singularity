@@ -1,2 +1,2 @@
-Bootstrap:polysolver.img
-From:Singularity
+Bootstrap: docker
+From: ubuntu:latest
