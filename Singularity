@@ -1,2 +1,2 @@
-Bootstrap:docker
-From:sachet/polysolver:v4
+Bootstrap:polysolver.img
+From:Singularity
